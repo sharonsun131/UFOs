@@ -13,6 +13,10 @@ The webpage filters the table correctly based on user input, for example, you ca
 
 ![ufo3](https://user-images.githubusercontent.com/102264298/173682037-9cd30c50-a088-4406-88a1-df7a346ad906.png)
 
+Another example, you can enter "01/11/2010" in the Enter a Data, you will see that the table is updated to show the reported sightings that was recorded on 01/11/2010. 
+
+![Screen Shot 2022-06-19 at 11 59 40 AM (2)](https://user-images.githubusercontent.com/102264298/174492179-dd4ceaaf-a739-48da-8c90-178b3579decf.png)
+
 ## Summary:
 
 ### one drawback of this webpage
