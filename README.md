@@ -19,11 +19,11 @@ Another example, you can enter "01/11/2010" in the Enter a Data, you will see th
 
 ## Summary:
 
-### one drawback of this webpage
+### One drawback of this webpage
 
 o   The current input is not very user friendly. Users have to type the whole city or state name to show the reported sightings. In this case, dropdown list would be convienient for the user to look for the specific city or state they are interested in.
 
-### two additional recommendations for further development
+### Two additional recommendations for further development
 
 o	It is recommended to add a click-button which can clear the results after each search.       
     
