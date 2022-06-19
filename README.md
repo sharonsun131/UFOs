@@ -17,10 +17,10 @@ The webpage filters the table correctly based on user input, for example, you ca
 
 ### one drawback of this webpage
 
-
+o   The current input is not very user friendly. Users have to type the whole city or state name to show the reported sightings. In this case, dropdown list would be convienient for the user to look for the specific city or state they are interested in.
 
 ### two additional recommendations for further development
 
-o	Dropdown list would be convienient for the user to look for the specific city or state they are interested in., instead of typing the whole city or state name. And also a click-button which clearing the results is needed.       
+o	It is recommended to add a click-button which can clear the results after each search.       
     
-o	
+o	The data is so out-of-date and it only has information for one month in 2010. It is recommened that kepp the data updated regularly.
